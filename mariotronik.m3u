@@ -1,0 +1,135 @@
+# MariotronikTV
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/america.webp",America TV
+http://45.5.151.147:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tvpublica.webp",Tv Publica
+http://45.5.151.147:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/nueve.webp",El Nueve
+http://45.5.151.147:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/telefe.png",Telefe
+http://45.5.151.147:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/eltrece.webp",El Trece
+http://45.5.151.147:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/nettv.webp",CanalNet
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/CanalNet.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/c5n.webp",C5N
+http://45.5.151.147:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tn.png",TN
+http://45.5.151.147:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/cronica.png",Cronica TV
+http://45.5.151.147:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/a24.webp",A24
+http://45.5.151.147:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/ln.webp",LN+
+http://45.5.151.147:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/canal26.webp",Canal 26
+http://45.5.151.147:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu7Vmb19p18xiBbI-njcgFnKuqPCXJfM5XA&s",CNN Español
+http://45.5.151.147:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/sony.webp",Sony
+http://45.5.151.147:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/axn.webp",AXN
+http://45.5.151.147:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/amc.webp",AMC
+http://45.5.151.147:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/comedy.webp",Comedy Central
+http://45.5.151.147:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports.webp",DSports
+http://190.61.41.181:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports2.webp",DSports 2
+http://190.61.41.181:8000/play/a0r4/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsportsplus.webp",DSports +
+http://190.61.41.181:8000/play/a0r3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tyc.webp",TyC Sports
+http://45.5.151.147:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxnew.png",Fox Sports
+http://45.5.151.147:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxnew2.png",Fox Sports 2
+http://45.5.151.147:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxnew3.png",Fox Sports 3
+http://45.5.151.147:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn.webp",ESPN
+http://45.5.151.147:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn2.webp",ESPN 2
+http://45.5.151.147:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn3.webp",ESPN 3
+http://45.5.151.147:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espnpr.webp",ESPN Premium
+http://45.5.151.147:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tntar.svg",TNT Sports
+http://45.5.151.147:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/pakapaka.png",Paka Paka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/cn.webp",Cartoon Network
+http://45.5.151.147:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/disney.webp",Disney Channel
+http://45.5.151.147:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/nick.png",Nickelodeon
+http://45.5.151.147:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/diskids.webp",Discovery Kids
+http://45.5.151.147:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/garagetv.webp",Garage TV
+http://45.5.151.147:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/ciudad.webp",Ciudad Magazine
+http://45.5.151.147:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/Group.svg",El Gourmet
+http://45.5.151.147:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/encuentro.webp",Encuentro
+http://45.5.151.147:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/e.webp",E!
+http://45.5.151.147:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/discovery.webp",Discovery
+http://45.5.151.147:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/aplanet.webp",Animal Planet
+http://45.5.151.147:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tlc.webp",TLC
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tlc.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/history.webp",History
+http://45.5.151.147:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/rural.webp",Rural
+http://45.5.151.147:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/mtv.webp",MTV
+http://138.59.227.20:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/quiero.webp",Quiero
+http://138.59.227.20:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/htv.webp",HTV
+http://45.5.151.147:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/cm.webp",CM
+http://45.5.151.147:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/star.webp",Star Channel
+http://45.5.151.147:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/volver.webp",Volver
+http://45.5.151.147:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/adults.png",Adult Swim
+http://177.74.205.189:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tnt.webp",TNT
+http://45.5.151.147:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/cinecanal.webp",Cinecanal
+http://45.5.151.147:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/cinemax.webp",Cinemax
+http://45.5.151.147:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/cinear.png",Cine AR
+http://45.5.151.147:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/space.webp",Space
+http://45.5.151.147:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/hbo.webp",HBO
+http://45.5.151.147:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/studio.webp",Studio Universal
+http://45.5.151.147:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tvees.png",TVE
+http://138.59.227.20:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="http://201.217.246.42:44310/images/RaiItalia.png",RAI
+http://138.59.227.20:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/telemundo.png",Telemundo
+http://45.5.151.147:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/uss.png",USA Network
+http://45.5.151.147:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/eurochannel.png",Euro Channel
+http://45.5.151.147:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/caracoltv.webp",Caracol Televisión
+http://45.5.151.147:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",Canal RCN
+http://45.5.151.147:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",Eventos 1
+http://ydcsngej.duperab.xyz/P37MQEAS/SDS4N2JA/4883
