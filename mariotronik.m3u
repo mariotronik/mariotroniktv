@@ -130,8 +130,6 @@ http://45.5.151.147:8000/play/a02s/index.m3u8
 http://45.5.151.147:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",Canal RCN
 http://45.5.151.147:8000/play/a02z/index.m3u8
-
-# El vocha:
 #EXTINF:-1 tvg-name="El Chavo del Ocho S05 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E19
 http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407740.avi
 #EXTINF:-1 tvg-name="El Chavo del Ocho S02 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E15
