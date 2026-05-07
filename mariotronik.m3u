@@ -1,5 +1,6 @@
-# MariotronikTV
 #EXTM3U
+# MariotronikTV
+
 #EXTINF:-1 tvg-logo="https://bestleague.world/img/america.webp",America TV
 http://45.5.151.147:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestleague.world/img/tvpublica.webp",Tv Publica
@@ -130,427 +131,41 @@ http://45.5.151.147:8000/play/a02s/index.m3u8
 http://45.5.151.147:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",Canal RCN
 http://45.5.151.147:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E19
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407740.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E15
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407608.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E31" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E31
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407571.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E31" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E31
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407666.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E34" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E34
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407708.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407552.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E26" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E26
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407794.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E39" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E39
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407632.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E25" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E25
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407699.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E01" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E01
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407541.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E45" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E45
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407766.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E03" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E03
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407771.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E14" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E14
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407649.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E22" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E22
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407562.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E08" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E08
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407729.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E44" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E44
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407718.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E31" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E31
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407624.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E21" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E21
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407789.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E04" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E04
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407639.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E34" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E34
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407755.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E43" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E43
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407583.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E27" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E27
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407620.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E15
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407689.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E09" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E09
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407777.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E25" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E25
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407660.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E20" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E20
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407741.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E08" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E08
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407601.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E16" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E16
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407556.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E06" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E06
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407680.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E41" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E41
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407762.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E36" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E36
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407710.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E20" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E20
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407613.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E05" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E05
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407545.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E41" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E41
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407715.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407733.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E04" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E04
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407597.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E27" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E27
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407567.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E13" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E13
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407781.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E19
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407654.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E27" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E27
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407748.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407604.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E38" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E38
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407578.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E10" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E10
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407684.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E32" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E32
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407800.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E09" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E09
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407644.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E01" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E01
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407722.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E51" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E51
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407591.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E20" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E20
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407694.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E24" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E24
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407617.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E18" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E18
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407786.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E22" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E22
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407657.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E15
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407736.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E09" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E09
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407549.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E30" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E30
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407704.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E06" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E06
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407774.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E01" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E01
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407594.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E20" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E20
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407560.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E37" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E37
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407711.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E31" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E31
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407752.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E36" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E36
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407629.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E40" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E40
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407580.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E29" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E29
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407797.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407646.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E24" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E24
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407745.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407605.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E17" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E17
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407557.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E18" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E18
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407692.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E16" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E16
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407784.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E28" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E28
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407663.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E05" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E05
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407726.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E02" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E02
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407542.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E03" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E03
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407677.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E24" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E24
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407792.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E07" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E07
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407642.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E38" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E38
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407759.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E05" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E05
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407598.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E24" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E24
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407564.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E22" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E22
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407696.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E10" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E10
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407778.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E16" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E16
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407651.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E21" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E21
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407742.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E16" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E16
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407609.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E13" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E13
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407553.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E47" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E47
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407721.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E05" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E05
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407773.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E33" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E33
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407668.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407732.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E02" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E02
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407595.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E06" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E06
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407546.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407686.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E15
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407783.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E21" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E21
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407656.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E26" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E26
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407747.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E19
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407612.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E35" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E35
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407575.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E39" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E39
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407713.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E23" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E23
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407791.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E01" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E01
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407636.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E02" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E02
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407723.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E46" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E46
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407586.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E09" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E09
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407683.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407780.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E13" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E13
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407648.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E07" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E07
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407600.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E15
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407555.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E14" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E14
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407688.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E20" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E20
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407788.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E30" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E30
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407665.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E07" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E07
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407728.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E34" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E34
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407574.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E27" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E27
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407701.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E31" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E31
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407799.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E03" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E03
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407638.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E42" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E42
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407763.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E32" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E32
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407625.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E29" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E29
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407569.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E01" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E01
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407675.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E02" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E02
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407770.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E24" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E24
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407659.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E23" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E23
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407744.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E13" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E13
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407606.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E18" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E18
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407558.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E43" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E43
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407717.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E19
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407787.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407647.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E14" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E14
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407735.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E06" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E06
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407599.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E08" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E08
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407548.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E13" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E13
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407687.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407779.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E35" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E35
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407670.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E35" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E35
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407756.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E35" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E35
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407628.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E33" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E33
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407573.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E29" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E29
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407703.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E28" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E28
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407796.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E10" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E10
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407645.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E22" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E22
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407743.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E10" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E10
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407603.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E14" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E14
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407554.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E42" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E42
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407716.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E17" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E17
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407785.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E20" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E20
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407655.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E13" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E13
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407734.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E03" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E03
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407596.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E07" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E07
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407547.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407685.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E14" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E14
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407782.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E23" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E23
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407658.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E36" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E36
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407757.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E38" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E38
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407631.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E32" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E32
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407572.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E28" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E28
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407702.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E30" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E30
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407798.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E02" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E02
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407637.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E44" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E44
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407765.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E33" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E33
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407626.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E30" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E30
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407570.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E02" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E02
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407676.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E01" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E01
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407769.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E26" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E26
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407661.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E16" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E16
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407737.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E14" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E14
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407607.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E19
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407559.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E45" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E45
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407719.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E25" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E25
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407793.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E17" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E17
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407652.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E03" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E03
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407724.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407551.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E40" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E40
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407714.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E04" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E04
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407772.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E32" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E32
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407667.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E32" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E32
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407753.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E41" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E41
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407634.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E28" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E28
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407568.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E31" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E31
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407705.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E27" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E27
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407795.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E05" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E05
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407640.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E46" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E46
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407767.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E34" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E34
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407627.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E21" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E21
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407561.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E04" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E04
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407678.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E08" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E08
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407776.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E18" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E18
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407653.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E10" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E10
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407731.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E09" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E09
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407602.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E10" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E10
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407550.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E46" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E46
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407720.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E07" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E07
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407775.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E29" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E29
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407664.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E09" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E09
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407730.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E18" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E18
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407611.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E26" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E26
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407566.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E38" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E38
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407712.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E22" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E22
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407790.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E08" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E08
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407643.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E47" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E47
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407768.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E42" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E42
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407635.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E53" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E53
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407593.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E16" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E16
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407690.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E11" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E11
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407779.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E37" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E37
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407672.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E43" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E43
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407764.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E25" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E25
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407618.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E42" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E42
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407582.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E19" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E19
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407693.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S06 E12" group-title="24/7 EL CHAVO",El Chavo del Ocho S06 E12
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407780.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S03 E15" group-title="24/7 EL CHAVO",El Chavo del Ocho S03 E15
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407650.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S05 E04" group-title="24/7 EL CHAVO",El Chavo del Ocho S05 E04
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407725.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S02 E17" group-title="24/7 EL CHAVO",El Chavo del Ocho S02 E17
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407610.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S01 E25" group-title="24/7 EL CHAVO",El Chavo del Ocho S01 E25
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407565.avi
-#EXTINF:-1 tvg-name="El Chavo del Ocho S04 E36" group-title="24/7 EL CHAVO",El Chavo del Ocho S04 E36
-http://rlatinop.com:8880/series/56978512270w/RqBWbLf2Kpdj/407710.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo 24/7" tvg-logo="https://www.eltiempo.com/files/image_640_428/files/crop/uploads/2022/01/07/61d87225e2222.r_1648615324217.0-1-730-365.jpeg" group-title="24/7 LATINO",El Chavo 24/7
+http://galileatv.top:8080/NORTH/pT5YP5a/290420
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chapulín Colorado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chapulin_Colorado_Animado_Logo.png" group-title="24/7 LATINO",24/7 | El Chapulín Colorado
+http://galileatv.top:8080/NORTH/pT5YP5a/294589
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CHESPIRITO" tvg-logo="https://i.postimg.cc/GmsD5tZ7/Screenshot-2024-07-31-110303.png" group-title="24/7 LATINO",24/7  CHESPIRITO
+http://galileatv.top:8080/NORTH/pT5YP5a/786052
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSON T1 ⭐️" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7 LATINO",24/7 | LOS SIMPSON T1 ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797140
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSON T2 ⭐️" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7 LATINO",24/7 | LOS SIMPSON T2 ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797141
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSON T3 ⭐️" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7 LATINO",24/7 | LOS SIMPSON T3 ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797142
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MR. BEAN ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/nl99a3o0e8hciom/bean.png" group-title="24/7 LATINO",24/7 | MR. BEAN ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797145
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7 LATINO",24/7 | BOB ESPONJA
+http://galileatv.top:8080/NORTH/pT5YP5a/797169
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOM EL DEL MEDIO ⭐️" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/fox-CAB400-Full-Image_GalleryCover-en-US-1592466194134._UY500_UX667_RI_V4397724587b12ecdaf96b5e7a50823e1_TTW_.jpg" group-title="24/7 LATINO",24/7 | MALCOM EL DEL MEDIO ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797224
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://e7.pngegg.com/pngimages/987/947/png-clipart-illustration-logo-graphic-design-brand-pink-panther-love-text.png" group-title="24/7 LATINO",24/7 | LA PANTERA ROSA
+http://galileatv.top:8080/NORTH/pT5YP5a/797214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY TEMP 1 Y 2 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" group-title="24/7 LATINO",24/7 | THE BIG BANG THEORY TEMP 1 Y 2 ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797244
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY T 3- 4- 5 ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/941/448/png-clipart-tv-folder-icons-colorflow-set-5-the-big-bang-theory-2-the-big-bang-theory-file-icon-thumbnail.png" group-title="24/7 LATINO",24/7 | THE BIG BANG THEORY T 3- 4- 5 ⭐️
+http://galileatv.top:8080/NORTH/pT5YP5a/797245
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL 1 AL 43 **" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7 LATINO",24/7 DRAGON BALL 1 AL 43 **
+http://galileatv.top:8080/NORTH/pT5YP5a/160524
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL DEL 44 AL 77**" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7 LATINO",24/7 DRAGON BALL DEL 44 AL 77**
+http://galileatv.top:8080/NORTH/pT5YP5a/160532
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL  78 AL 116**" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7 LATINO",24/7 DRAGON BALL  78 AL 116**
+http://galileatv.top:8080/NORTH/pT5YP5a/160534
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry" tvg-logo="https://tcf.admeen.org/game/17000/16583/320x160/tom-jerry-mouse-maze.jpg" group-title="24/7 LATINO",24/7 Tom Y Jerry
+http://galileatv.top:8080/NORTH/pT5YP5a/100788
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Don Gato y su Pandilla**" tvg-logo="https://img.wikicharlie.cl/5/5f/Don_Gato_Personajes.jpg" group-title="24/7 LATINO",24/7 Don Gato y su Pandilla**
+http://galileatv.top:8080/NORTH/pT5YP5a/100821
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show del Pajaro Loco" tvg-logo="https://e7.pngegg.com/pngimages/1012/671/png-clipart-woody-woodpecker-duck-pajaro-loco-chicken-vertebrate.png" group-title="24/7 LATINO",24/7 El Show del Pajaro Loco
+http://galileatv.top:8080/NORTH/pT5YP5a/100872
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y EL CORRECAMINOS **" tvg-logo="http://assets.stickpng.com/images/59300e603919fe0ee3614deb.png" group-title="24/7 LATINO",24/7 EL COYOTE Y EL CORRECAMINOS **
+http://galileatv.top:8080/NORTH/pT5YP5a/160211
