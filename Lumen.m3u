@@ -345,3 +345,6 @@ http://8.243.126.131:8000/play/a0ol/index.m3u8?hls
 --
 #EXTINF:-1 tvg-id="" tvg-name="CLOVER" tvg-logo="" group-title="VARIOS",36-CLOVER
 http://8.243.126.131:8000/play/a057/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="http://redworld.pro:8880/images/c73c914ca8d709e7af40ab3cc129377f.jpeg" group-title="✅ 24/7 VIP",24/7 - El Chavo del 8
+http://rlatinop.com:8880/cata1205/yefM7NrNFTVa/526348
